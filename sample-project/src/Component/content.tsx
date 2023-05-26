@@ -1,10 +1,7 @@
 function Content() {
+  const name = "sathish";
 
-    const name = "sathish" 
-
-    return (
-        <p>Hi {name } Welcome to tea shop</p>
-    )
+  return <p>Hi {name} Welcome to tea shop</p>;
 }
 
 export default Content;
