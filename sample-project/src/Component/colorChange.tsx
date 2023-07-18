@@ -6,7 +6,7 @@ function ColorChange() {
   return (
     <div>
       My favourite clour is {color} <br></br>
-      <button onClick={() => setColor("white")}>Change Color</button>
+      <button onClick={() => setColor("white")}>Change Color..</button>
     </div>
   );
 }
